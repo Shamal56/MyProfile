@@ -205,7 +205,6 @@ input[type="text"], textarea, input[type="email"] {
     top: 2150px;
     left: 368px;
     padding: 20px;
-
 }
 .sample2 {
     position: absolute;
@@ -217,5 +216,14 @@ input[type="text"], textarea, input[type="email"] {
     top: 2150px;
     left: 1052px;
     padding: 20px;
-    
+}
+.sample1 li {
+    font-size: 18px;
+    font-family: Arial;
+    color: #F0FFFF;
+}
+.sample2 li {
+    font-size: 18px;
+    font-family: Arial;
+    color: #B0E0E6;
 }
